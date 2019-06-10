@@ -1,0 +1,12 @@
+## Yeoman gitignore - https://github.com/github/gitignore/blob/master/Yeoman.gitignore
+
+node_modules/
+bower_components/
+*.log
+*.orig
+build/
+dist/
+temp/
+modules/config/config.js
+.vscode/
+*-lock.json
